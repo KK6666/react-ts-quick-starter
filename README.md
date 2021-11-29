@@ -1,6 +1,6 @@
 # 现在的是 webpack5 + react17 + Typescript 搭建版本
 
-> 分支为 `master`
+> 分支为 `master` 
 
 往下翻可查看当前这版与上一版配置不同的点，大同小异。
 
